@@ -2,12 +2,12 @@
 
 # Summer of Code Archives
 
-Julia has greatly benefited from the Google Summer of Code. In the last 8 years, over 110+ students have contributed to Julia and various Julia packages. Many of these students, after their summer projects, have gone on to become regular contributors to Julia, a programming language that has been gaining much popularity in recent years.
+Julia has greatly benefited from Google Summer of Code. In the last 8 years, over 130+ people have contributed to Julia and various Julia packages through the program. Many of these individuals, after their summer projects, have gone on to become regular contributors to the Julia ecosystem.
 Take a look to our [Julia Seasons of Contributions Page](/jsoc) and contribute your ideas.
 
 ## GSoC 2022
 
-In 2022, we are delighted to recognize Google for their support and funding, as well as our Contributor. Nineteen talented and driven students contributed to the projects, making a meaningful impact. Check out the [Projects List](https://summerofcode.withgoogle.com/archive/2022/organizations/the-julia-language#projects-list).
+In 2022, we are delighted to recognize Google for its support and funding, as well as our Contributor. Nineteen talented and driven contributors worked on projects, making a meaningful impact. Check out the [Projects List](https://summerofcode.withgoogle.com/archive/2022/organizations/the-julia-language#projects-list) on the GSoC site for a look into what was done in 2022.
 
 For the 2022 idea list, [View Idea List](https://julialang.org/jsoc/projects/).
 
@@ -15,7 +15,6 @@ For the 2022 idea list, [View Idea List](https://julialang.org/jsoc/projects/).
 
 In 2021, Google provided great support to our contributors through its program. 20 students contributed to Julia projects: [View Projects](https://summerofcode.withgoogle.com/archive/2021/organizations/5086646441082880#projects-list).
 
-Here is the [Idea List](https://julialang.org/jsoc/projects/).
 
 ## GSoC 2020
 
